@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+
+nav{
+    background-color: rgb(128, 128, 128,.4);
+    margin-top: px;
+
+
+}
+
+nav h2{
+    color: white;
+    font-size: 30px;
+    text-transform: capitalize;
+    text-align: center;
+    height: 50px;
+    margin: 0;
+    padding-top: 10px;
+
+    
+}
+
+#show-color-code{
+    
+    width: 300px;
+    height: 100px;
+    background-color: grey;
+    margin: 50px auto;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+#show-color-code p{
+    color: white;
+    font-size: 20px;
+
+
+}
+
+#btn{
+    
+ cursor: pointer;
+ margin-left: 70px;
+ height: 40px;
+ border: none;
+ background-color: white;
+ font-size: 20px;
+ font-weight: bold;
+
+ 
+    
+}
+#btn:hover{
+    box-shadow: black 2px 2px 2px 2px;
+}
